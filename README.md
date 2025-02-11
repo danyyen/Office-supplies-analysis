@@ -1,7 +1,7 @@
 # Office-supplies-analysis using Python
 This project analyzes the inventory of an office supplies company.
 # Company Background
-Pens & Printers is a national office supplies chain. At the moment, they send office supplies out of warehouses in four regions: East, West, South, and Central, and all four warehouses stock the same products. The Head of Sales thinks this leads to large amounts of unsold products in some locations.
+Pens & Printers is a national office supplies chain. Currently, they send office supplies out of warehouses in four regions: East, West, South, and Central, and all four warehouses stock the same products. The Head of Sales thinks this leads to large amounts of unsold products in some locations.
 
 # Customer Question
 The management would like you to answer the following:
